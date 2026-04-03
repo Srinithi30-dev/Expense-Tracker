@@ -1,0 +1,9 @@
+date,description,amount,payment_mode
+2025-03-01,Zomato order,250,GPay
+2025-03-02,Uber ride,180,PhonePe
+2025-03-03,Amazon shopping,1200,Card
+2025-03-04,Swiggy food,300,GPay
+2025-03-05,Metro travel,100,Cash
+2025-03-06,Big Bazaar groceries,900,Card
+2025-03-07,Movie tickets,450,PhonePe
+2025-03-08,Petrol pump,600,Cash
